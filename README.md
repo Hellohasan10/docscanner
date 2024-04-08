@@ -2,9 +2,12 @@
 <img src='https://i.ibb.co/g7Ys7pQ/favicon.png' style="height:100px;width:100px;" >
 </p>
 
-<br>
-
+<be>
+  
+<div align='center'>
 # 𝗜𝗺𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗼𝗿
+</div>
+
 Simplify, Optimize, and Enhance
 
 <br>

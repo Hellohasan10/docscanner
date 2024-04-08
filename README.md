@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src='https://i.ibb.co/g7Ys7pQ/favicon.png' style="height:100px;width:100px;" >
+</p>
 ![Logo](https://i.ibb.co/g7Ys7pQ/favicon.png)
 
 

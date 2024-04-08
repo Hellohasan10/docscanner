@@ -1,18 +1,25 @@
 <p align="center">
 <img src='https://i.ibb.co/g7Ys7pQ/favicon.png' style="height:100px;width:100px;" >
 </p>
-![Logo](https://i.ibb.co/g7Ys7pQ/favicon.png)
 
+<br>
+<hr>
+<br>
 
 # 𝗜𝗺𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗼𝗿
 Simplify, Optimize, and Enhance
 
-
-
+<br>
+<hr>
+<br>
 
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 
 Image Processor is a powerful web application designed to offer a suite of image editing tools accessible through a user-friendly interface. Built using Flask, a lightweight WSGI web application framework, our application provides users with the ability to perform a variety of image manipulations, including format conversion, color adjustments, and, notably, background removal.
+
+<br>
+<hr>
+<br>
 
 ### 𝗛𝗼𝘄 𝗜𝘁 𝗪𝗼𝗿𝗸𝘀
 
@@ -21,6 +28,10 @@ Image Processor is a powerful web application designed to offer a suite of image
 - 𝕮𝖍𝖔𝖔𝖘𝖊 𝕺𝖕𝖊𝖗𝖆𝖙𝖎𝖔𝖓: Users can choose the desired editing operation from a dropdown menu, including format conversion, grayscale, and background removal.
 
 - 𝕻𝖗𝖔𝖈𝖊𝖘𝖘 & 𝕯𝖔𝖜𝖓𝖑𝖔𝖆𝖉: After processing, users can download the edited image(s) directly or receive a zip file for bulk operations.
+
+<br>
+<hr>
+<br>
 
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
@@ -32,6 +43,9 @@ Image Processor is a powerful web application designed to offer a suite of image
 
 - 𝕽𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖛𝖊 𝕯𝖊𝖘𝖎𝖌𝖓: Fully responsive web design ensures a seamless experience across various devices and screen sizes.
 
+<br>
+<hr>
+<br>
 
 ## 𝗗𝗲𝗺𝗼
 
@@ -39,14 +53,28 @@ Image Processor is a powerful web application designed to offer a suite of image
 
 Image Editor
 
+<br>
+<hr>
+<br>
 
 ![Image](https://i.ibb.co/q0xKBkT/Background-Remover.png)
 
 Background Remover
+
+<br>
+<hr>
+<br>
+
+
+
 ##  𝗔𝘂𝘁𝗵𝗼𝗿𝘀
 
 - [@mhasan](https://www.github.com/Hellohasan10)
 - [@umerbinmaqsood](#)
+
+<br>
+<hr>
+<br>
 
 
 ## 𝗙𝗲𝗲𝗱𝗯𝗮𝗰𝗸

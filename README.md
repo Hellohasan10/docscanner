@@ -4,9 +4,7 @@
 
 <be>
   
-<div align='center'>
 # 𝗜𝗺𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗼𝗿
-</div>
 
 Simplify, Optimize, and Enhance
 
